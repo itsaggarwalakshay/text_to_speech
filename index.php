@@ -67,7 +67,7 @@ body{
 <body>
 <div class="container d-flex justify-content-center" style="height: 100vh;">
     <div class="col-md-5 card1">
-      <h3 class="text-center mb-4">Convert Your Text to Speach</h3>
+      <h3 class="text-center mb-4">Convert Your Text to Speech</h3>
       <!-- ----form-starts-here-- -->
       <form action="" method="post">
         <div class="form-group">
